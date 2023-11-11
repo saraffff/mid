@@ -5,16 +5,17 @@ body {
     text-align: center;
     font-family: 'EB Garamond', serif;
     font-family: 'Inter', sans-serif;
+    background-color: aliceblue;
 }
 
 header, footer {
-    background-color: rgb(7, 10, 75);
+    background-color: darkslategrey;
     color: white;
     padding: 10px;
 }
 
 nav {
-    background-color: #333333;
+    background-color: rgb(88, 157, 148);
 }
 
 nav ul {
@@ -36,7 +37,8 @@ nav a:hover {
 }
 img {
     
-        
+    border-radius: 10px;
+
             width: 500px; 
             height: 400px; 
         
